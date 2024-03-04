@@ -35,9 +35,9 @@ class _sign_inState extends State<sign_in> {
           child: Container(
             decoration: const BoxDecoration(
               gradient: LinearGradient(colors: [
-                Color.fromARGB(255, 77, 127, 198),
-                Color.fromARGB(255, 42, 90, 156),
-                Color.fromARGB(255, 6, 33, 70),
+                Color.fromARGB(255, 81, 134, 207),
+                Color.fromARGB(255, 36, 87, 157),
+                Color.fromARGB(255, 3, 25, 56),
               ], begin: Alignment.topRight, end: Alignment.bottomLeft),
             ),
             child: Padding(
